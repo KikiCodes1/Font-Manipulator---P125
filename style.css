@@ -1,0 +1,44 @@
+.heading{
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    box-shadow: 5px 5px 5px gray;
+    text-align: center;
+    margin: 0px;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.note{
+    font-size: 23px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.copy-right-footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: steelblue;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+canvas{
+    background-color: white;
+    box-shadow: 10px 10px 8px skyblue;
+    border-color: steelblue;
+    border-width: 5px;
+    border-style: double;
+    border-radius: 20px;
+}
+
+video{
+    box-shadow: 10px 10px 8px skyblue;
+    border-color: steelblue;
+    border-width: 5px;
+    border-style: double;
+    border-radius: 20px;
+}
