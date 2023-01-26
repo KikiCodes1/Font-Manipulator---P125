@@ -26,7 +26,7 @@ function modelLoaded(){
 }
 
 function gotPoses(results){
-    if(results > 0){
+    if(results.length > 0){
         console.log(results);
         rightWrist = results[0].pose.rightWrist.x;
         leftWrist = results[0].pose.leftWrist.x;
